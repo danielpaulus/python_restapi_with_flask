@@ -5,6 +5,8 @@
 """
 # docker run -d -p 27017:27017 mongo
 # https://medium.com/@riken.mehta/full-stack-tutorial-flask-react-docker-420da3543c91
+#
+# https://medium.com/@riken.mehta/full-stack-tutorial-3-flask-jwt-e759d2ee5727
 
 
 import os
